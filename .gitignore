@@ -1,4 +1,6 @@
 *.[oa]
 *~
 *.csv
+*.xlsx
 *.Home2
+*.py
